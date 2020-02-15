@@ -1,5 +1,5 @@
 # Object-detection-with-deep-learning-and-OpenCV
-Using MobileNet Single Shot Detector to detet multiple object in Images as well as Videos
+Using MobileNet Single Shot Detector to detet multiple object in Images.
 
 The MobileNet SSD was first trained on the COCO dataset and was then fine-tuned on PASCAL VOC reaching 72.7% mAP (mean average precision).
 
