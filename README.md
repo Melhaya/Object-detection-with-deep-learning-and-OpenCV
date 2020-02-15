@@ -9,6 +9,5 @@ The MobileNet SSD was first trained on the COCO dataset and was then fine-tuned 
 
 # Projects
 Model was trained by: [chuanqi305](https://github.com/chuanqi305/MobileNet-SSD)  
-[Mask RCNN Project, GitHub.](https://github.com/matterport/Mask_RCNN)  
 
 
